@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-react-translate-maker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automatic extraction of translations from modules that use react-translate-maker",
   "author": "Zlatko Fedor <zlatkofedor@cherrysro.com>",
   "repository": {
